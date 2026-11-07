@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.krypton.utility.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "AbstractContainerScreenAccessor",
+    "EntityMixin",
+    "KeyMappingMixin",
+    "OptionInstanceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
